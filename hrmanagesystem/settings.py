@@ -155,10 +155,10 @@ EMAIL_HOST = 'smtp.qq.com'
 # QQ服务器端口
 EMAIL_PORT = 465
 # 发件人
-EMAIL_HOST_USER = '761082014@qq.com'
+EMAIL_HOST_USER = ''
 # 密码(这里使用的是授权码)
-EMAIL_HOST_PASSWORD = 'etrieqfhcamtbehi'
+EMAIL_HOST_PASSWORD = ''
 # 邮件显示的发件人
-EMAIL_FROM = 'miujoke<761082014@qq.com>'
+EMAIL_FROM = ''
 
 
