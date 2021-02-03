@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>主机状态</title>
+    <script src="/static/dist/echarts.min.js"></script>
+    <script src="/static/dist/jquery-1.11.3.js"></script>
+</head>
+<body>
+<div>
+<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+        <div id="ybp" style="width: 600px;height:380px;margin:0 ;float: left"></div>
+        <script type="text/javascript">
+            // 基于准备好的dom，初始化echarts实例
+            var myChart = echarts.init(document.getElementById('ybp'));
+
+            // 指定图表的配置项和数据
+            myChart.setOption({
+                tooltip: {
+                    formatter: "{a} <br/>{b} : {c}%"
+                },
+                toolbox: {
+                    feature: {
+                        restore: {},
+                        saveAsImage: {}
+                    }
+                },
+                series: [{
+                    name: '主机',
+                    type: 'gauge',
+                    detail: { formatter: '{value}%' },
+                    data: [{ value: {{ num }}, name: '服务器负载率' }]
+                }]
+            });
+        </script>
+
+<div id="mg" style="width: 700px;height:380px;margin:0;float: left"></div>
+<script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart = echarts.init(document.getElementById('mg'));
+    option = {
+        title: {
+            text: '南丁格尔玫瑰图',
+            subtext: '服务区厂商',
+            left: 'center'
+        },
+        tooltip: {
+            trigger: 'item',
+            formatter: '{a} <br/>{b} : {c} ({d}%)'
+        },
+        legend: {
+            left: 'center',
+            top: 'bottom',
+            data: {{ flag|safe }}
+        },
+        toolbox: {
+            show: true,
+            feature: {
+                mark: {show: true},
+                dataView: {show: true, readOnly: false},
+                magicType: {
+                    show: true,
+                    type: ['pie', 'funnel']
+                },
+                restore: {show: true},
+                saveAsImage: {show: true}
+            }
+        },
+        series: [
+            {
+                name: '半径模式',
+                type: 'pie',
+                radius: [20, 110],
+                center: ['50%', '50%'],
+                roseType: 'radius',
+                label: {
+                    show: false
+                },
+                emphasis: {
+                    label: {
+                        show: true
+                    }
+                },
+                data: {{ data|safe }}
+            }
+        ]
+    };
+    myChart.setOption(option, true);
+    </script>
+    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+        <div id="line" style="width: 800px;height:320px;margin:0 auto"></div>
+        <script type="text/javascript">
+            // 基于准备好的dom，初始化echarts实例
+            var myChart = echarts.init(document.getElementById('line'));
+            // 指定图表的配置项和数据
+
+            myChart.setOption({
+                //标题
+                title:{
+                  text:'月活统计'
+                },
+                //保存图片
+                toolbox:{
+                    show:true,
+                    feature:{
+                        saveAsImage:{
+                            show:true
+                        }
+                    }
+                },
+                xAxis: {
+                    type: 'category',
+                    data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+                },
+                yAxis: {
+                    type: 'value'
+                },
+                series: [{
+                    data: [820, 932, 901, 934, 1290, 1330, 1320],
+                    type: 'line'
+                }]
+            });
+            </script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,1028 @@
+[W 20200723 20:19:08 base:152] Not Found: /employee/server/
+[W 20200723 20:19:08 basehttp:124] "GET /employee/server/ HTTP/1.1" 404 2149
+[I 20200723 20:19:13 basehttp:124] "GET /employee/disk/ HTTP/1.1" 200 6
+[I 20200723 20:22:51 basehttp:124] "GET /employee/disk/ HTTP/1.1" 200 6
+[I 20200723 20:23:06 basehttp:124] "GET /employee/disk/ HTTP/1.1" 200 6
+[I 20200723 20:24:02 basehttp:124] "GET /employee/disk/ HTTP/1.1" 200 6
+[W 20200723 20:24:02 base:152] Not Found: /favicon.ico
+[W 20200723 20:24:02 basehttp:124] "GET /favicon.ico HTTP/1.1" 404 2080
+[I 20200723 20:24:17 basehttp:124] "GET /employee/disk/ HTTP/1.1" 200 6
+[I 20200723 21:41:56 views:14] ´ÅÅÌ¸ºÔØÎ£ÏÕ
+[I 20200723 21:41:57 basehttp:124] "GET /employee/disk/ HTTP/1.1" 200 6
+[I 20200723 21:43:06 views:14] ´ÅÅÌ¸ºÔØÎ£ÏÕ
+[I 20200723 21:43:07 basehttp:124] "GET /employee/disk/ HTTP/1.1" 200 6
+[I 20200723 21:43:32 views:14] ´ÅÅÌ¸ºÔØÎ£ÏÕ
+[I 20200723 21:43:35 basehttp:124] "GET /employee/disk/ HTTP/1.1" 200 6
+[I 20200723 21:52:17 views:14] ´ÅÅÌ¸ºÔØÎ£ÏÕ
+[I 20200723 21:52:18 basehttp:124] "GET /employee/disk/ HTTP/1.1" 200 6
+[I 20200724 01:17:23 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200724 01:17:23 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200724 01:17:30 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200724 01:17:30 basehttp:124] "GET /admin/ HTTP/1.1" 200 7636
+[I 20200724 01:17:34 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7944
+[I 20200724 01:17:34 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:17:39 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200724 01:17:39 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 4437
+[I 20200724 01:17:39 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:17:49 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7944
+[I 20200724 01:17:49 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:18:02 basehttp:124] "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+[I 20200724 01:18:10 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200724 01:18:10 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 4681
+[I 20200724 01:18:10 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:18:15 basehttp:124] "GET /admin/hostmanagement/serverinfo/2/change/ HTTP/1.1" 200 8219
+[I 20200724 01:18:15 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:18:20 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 4492
+[I 20200724 01:18:25 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7944
+[I 20200724 01:18:28 basehttp:124] "GET /admin/ HTTP/1.1" 200 7688
+[I 20200724 01:24:39 basehttp:124] "GET /admin/ HTTP/1.1" 200 7678
+[I 20200724 01:24:48 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 7112
+[I 20200724 01:24:48 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:24:48 basehttp:124] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[I 20200724 01:26:07 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 7112
+[I 20200724 01:26:07 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:26:11 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 7112
+[I 20200724 01:26:11 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:26:48 basehttp:124] "GET /admin/ HTTP/1.1" 200 7678
+[I 20200724 01:26:52 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6797
+[I 20200724 01:26:52 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:27:34 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6797
+[I 20200724 01:27:34 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:27:35 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6797
+[I 20200724 01:27:35 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:27:35 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6797
+[I 20200724 01:27:35 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:27:35 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6797
+[I 20200724 01:27:35 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:27:36 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6797
+[I 20200724 01:27:36 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:27:36 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6797
+[I 20200724 01:27:36 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:27:40 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6797
+[I 20200724 01:27:40 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:27:40 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6797
+[I 20200724 01:27:40 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:27:40 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6797
+[I 20200724 01:27:40 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:27:44 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6797
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+[I 20200724 01:27:44 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[I 20200724 01:27:44 basehttp:124] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[W 20200724 01:27:44 base:152] Not Found: /favicon.ico
+[W 20200724 01:27:44 basehttp:124] "GET /favicon.ico HTTP/1.1" 404 2080
+[I 20200724 01:28:02 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 6741
+[I 20200724 01:28:02 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:28:14 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7945
+[I 20200724 01:28:14 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:29:00 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200724 01:29:00 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 7501
+[I 20200724 01:29:00 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:29:04 basehttp:124] "GET /admin/hostmanagement/serverinfo/?sbrand=%E5%B0%8F%E7%B1%B3 HTTP/1.1" 200 6832
+[I 20200724 01:29:04 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:29:06 basehttp:124] "GET /admin/hostmanagement/serverinfo/?sbrand=%E6%88%B4%E5%B0%94 HTTP/1.1" 200 7380
+[I 20200724 01:29:06 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:29:21 basehttp:124] "GET /admin/hostmanagement/serverinfo/?q=127&sbrand=%E6%88%B4%E5%B0%94 HTTP/1.1" 200 7524
+[I 20200724 01:29:21 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:29:29 basehttp:124] "GET /admin/hostmanagement/serverinfo/?q=127.0&sbrand=%E6%88%B4%E5%B0%94 HTTP/1.1" 200 7554
+[I 20200724 01:29:29 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:29:33 basehttp:124] "GET /admin/hostmanagement/serverinfo/?q=127.0 HTTP/1.1" 200 7570
+[I 20200724 01:29:33 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:29:40 basehttp:124] "GET /admin/hostmanagement/serverinfo/?q=%E6%88%B4%E5%B0%94 HTTP/1.1" 200 7350
+[I 20200724 01:29:40 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:29:49 basehttp:124] "GET /admin/hostmanagement/serverinfo/?q=host1 HTTP/1.1" 200 6613
+[I 20200724 01:29:49 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:29:56 basehttp:124] "GET /admin/hostmanagement/serverinfo/?q=127.0.0.1 HTTP/1.1" 200 6669
+[I 20200724 01:29:56 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:30:00 basehttp:124] "GET /admin/hostmanagement/serverinfo/?q=127.0.0.2 HTTP/1.1" 200 6668
+[I 20200724 01:30:00 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:30:22 basehttp:124] "GET /admin/ HTTP/1.1" 200 7681
+[I 20200724 01:30:23 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 9520
+[I 20200724 01:30:24 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:30:26 basehttp:124] "GET /admin/employee/employeeinfo/add/ HTTP/1.1" 200 7428
+[I 20200724 01:30:26 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:31:17 basehttp:124] "POST /admin/employee/employeeinfo/add/ HTTP/1.1" 302 0
+[I 20200724 01:31:17 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 10164
+[I 20200724 01:31:17 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:31:30 basehttp:124] "GET /admin/employee/employeeinfo/add/ HTTP/1.1" 200 7428
+[I 20200724 01:31:32 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 9977
+[I 20200724 01:31:34 basehttp:124] "GET /admin/ HTTP/1.1" 200 7684
+[I 20200724 01:31:53 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 6906
+[I 20200724 01:31:53 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:31:53 basehttp:124] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[I 20200724 01:31:55 basehttp:124] "GET /admin/auth/user/2/change/ HTTP/1.1" 200 14090
+[I 20200724 01:31:55 basehttp:124] "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 5755
+[I 20200724 01:31:55 basehttp:124] "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12389
+[I 20200724 01:31:55 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:31:56 basehttp:124] "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+[I 20200724 01:31:56 basehttp:124] "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+[I 20200724 01:31:56 basehttp:124] "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+[I 20200724 01:31:56 basehttp:124] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[I 20200724 01:32:17 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 6906
+[I 20200724 01:32:19 basehttp:124] "GET /admin/ HTTP/1.1" 200 7684
+[I 20200724 01:32:24 basehttp:124] "GET /admin/auth/group/add/ HTTP/1.1" 200 6697
+[I 20200724 01:32:24 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:33:40 basehttp:124] "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+[I 20200724 01:33:40 basehttp:124] "GET /admin/auth/group/ HTTP/1.1" 200 4672
+[I 20200724 01:33:40 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:33:44 basehttp:124] "GET /admin/auth/group/add/ HTTP/1.1" 200 6697
+[I 20200724 01:33:44 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:34:31 basehttp:124] "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+[I 20200724 01:34:31 basehttp:124] "GET /admin/auth/group/ HTTP/1.1" 200 4902
+[I 20200724 01:34:31 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:34:34 basehttp:124] "GET /admin/ HTTP/1.1" 200 7654
+[I 20200724 01:34:40 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7277
+[I 20200724 01:34:40 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:34:42 basehttp:124] "GET /admin/auth/user/2/change/ HTTP/1.1" 200 14188
+[I 20200724 01:34:42 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:35:18 basehttp:124] "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+[I 20200724 01:35:18 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7437
+[I 20200724 01:35:19 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:35:33 basehttp:124] "GET /admin/ HTTP/1.1" 200 7630
+[I 20200724 01:35:36 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200724 01:35:39 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200724 01:35:39 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200724 01:35:48 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200724 01:35:48 basehttp:124] "GET /admin/ HTTP/1.1" 200 3692
+[I 20200724 01:35:54 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 7310
+[I 20200724 01:35:54 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:36:26 basehttp:124] "GET /admin/ HTTP/1.1" 200 3692
+[W 20200724 01:36:32 exception:58] Forbidden (Permission denied): /admin/auth/user/add/
+[W 20200724 01:36:32 basehttp:124] "GET /admin/auth/user/add/ HTTP/1.1" 403 22
+[W 20200724 01:36:38 exception:58] Forbidden (Permission denied): /admin/auth/user/
+[W 20200724 01:36:38 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 403 22
+[W 20200724 01:36:44 exception:58] Forbidden (Permission denied): /admin/auth/user/2/change/
+[W 20200724 01:36:44 basehttp:124] "GET /admin/auth/user/2/change/ HTTP/1.1" 403 22
+[I 20200724 01:36:50 basehttp:124] "GET /admin/ HTTP/1.1" 200 3692
+[I 20200724 01:36:51 basehttp:124] "GET /admin/ HTTP/1.1" 200 3692
+[I 20200724 01:37:00 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200724 01:37:05 basehttp:124] "GET /admin/logout/ HTTP/1.1" 302 0
+[I 20200724 01:37:05 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200724 01:37:05 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200724 01:37:13 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200724 01:37:13 basehttp:124] "GET /admin/ HTTP/1.1" 200 7630
+[I 20200724 01:37:16 basehttp:124] "GET /admin/auth/user/add/ HTTP/1.1" 200 5490
+[I 20200724 01:37:16 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:37:50 basehttp:124] "POST /admin/auth/user/add/ HTTP/1.1" 200 5655
+[I 20200724 01:37:50 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:38:10 basehttp:124] "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+[I 20200724 01:38:10 basehttp:124] "GET /admin/auth/user/3/change/ HTTP/1.1" 200 14298
+[I 20200724 01:38:10 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:38:46 basehttp:124] "POST /admin/auth/user/3/change/ HTTP/1.1" 302 0
+[I 20200724 01:38:46 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7863
+[I 20200724 01:38:46 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:38:51 basehttp:124] "GET /admin/auth/user/2/change/ HTTP/1.1" 200 14189
+[I 20200724 01:38:51 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:39:03 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200724 01:39:04 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200724 01:39:04 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200724 01:39:17 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200724 01:39:17 basehttp:124] "GET /admin/ HTTP/1.1" 200 3692
+[I 20200724 01:39:20 basehttp:124] "GET /admin/password_change/ HTTP/1.1" 200 2534
+[I 20200724 01:39:38 basehttp:124] "POST /admin/password_change/ HTTP/1.1" 302 0
+[I 20200724 01:39:38 basehttp:124] "GET /admin/password_change/done/ HTTP/1.1" 200 1174
+[I 20200724 01:39:43 basehttp:124] "GET /admin/ HTTP/1.1" 200 3692
+[I 20200724 01:39:45 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200724 01:39:47 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200724 01:39:47 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200724 01:39:57 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200724 01:39:57 basehttp:124] "GET /admin/ HTTP/1.1" 200 2833
+[I 20200724 01:40:13 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200724 01:40:14 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200724 01:40:14 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200724 01:40:24 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200724 01:40:24 basehttp:124] "GET /admin/ HTTP/1.1" 200 7582
+[I 20200724 01:40:48 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200724 01:40:48 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200724 01:40:49 basehttp:124] "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+[I 20200724 01:40:49 basehttp:124] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[I 20200724 01:40:49 basehttp:124] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[I 20200724 01:40:49 basehttp:124] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[I 20200724 01:40:49 basehttp:124] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[I 20200724 01:40:59 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200724 01:40:59 basehttp:124] "GET /admin/ HTTP/1.1" 200 3692
+[I 20200724 01:40:59 basehttp:124] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[I 20200724 01:40:59 basehttp:124] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[I 20200724 01:40:59 basehttp:124] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[I 20200724 01:40:59 basehttp:124] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[I 20200724 01:41:00 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 7310
+[I 20200724 01:41:00 basehttp:124] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[I 20200724 01:41:00 basehttp:124] "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+[I 20200724 01:41:00 basehttp:124] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[I 20200724 01:41:00 basehttp:124] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+[I 20200724 01:41:00 basehttp:124] "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+[I 20200724 01:41:00 basehttp:124] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[I 20200724 01:41:00 basehttp:124] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+[I 20200724 01:41:00 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:41:00 basehttp:124] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[I 20200724 01:41:00 basehttp:124] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[I 20200724 01:41:00 basehttp:124] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[I 20200724 01:41:00 basehttp:124] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[I 20200724 01:41:05 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7943
+[I 20200724 01:41:05 basehttp:124] "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+[I 20200724 01:41:05 basehttp:124] "GET /static/admin/js/calendar.js HTTP/1.1" 200 7790
+[I 20200724 01:41:05 basehttp:124] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20529
+[I 20200724 01:41:05 basehttp:124] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[I 20200724 01:41:05 basehttp:124] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[I 20200724 01:41:05 basehttp:124] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[I 20200724 01:41:05 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:41:05 basehttp:124] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[I 20200724 01:41:36 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200724 01:41:36 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 7989
+[I 20200724 01:41:36 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:41:36 basehttp:124] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[I 20200724 01:41:39 basehttp:124] "GET /admin/hostmanagement/serverinfo/?sbrand=%E5%B0%8F%E7%B1%B3 HTTP/1.1" 200 7380
+[I 20200724 01:41:39 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:41:41 basehttp:124] "GET /admin/hostmanagement/serverinfo/?sbrand=%E6%88%B4%E5%B0%94 HTTP/1.1" 200 7378
+[I 20200724 01:41:41 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:41:49 basehttp:124] "GET /admin/ HTTP/1.1" 200 4000
+[I 20200724 01:42:20 basehttp:124] "GET /admin/password_change/ HTTP/1.1" 200 2534
+[I 20200724 01:42:23 basehttp:124] "GET /admin/ HTTP/1.1" 200 4000
+[I 20200724 01:42:39 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7702
+[I 20200724 01:42:39 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:42:40 basehttp:124] "GET /admin/auth/user/2/change/ HTTP/1.1" 200 14189
+[I 20200724 01:42:40 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:42:56 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7702
+[I 20200724 01:42:58 basehttp:124] "GET /admin/auth/user/3/change/ HTTP/1.1" 200 14180
+[I 20200724 01:42:58 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:43:07 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7702
+[I 20200724 01:43:09 basehttp:124] "GET /admin/auth/user/2/change/ HTTP/1.1" 200 14189
+[I 20200724 01:43:09 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:43:41 basehttp:124] "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+[I 20200724 01:43:42 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7871
+[I 20200724 01:43:42 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:43:48 basehttp:124] "GET /admin/auth/user/2/change/ HTTP/1.1" 200 14198
+[I 20200724 01:43:48 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:43:57 basehttp:124] "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+[I 20200724 01:43:57 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7876
+[I 20200724 01:43:57 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:43:59 basehttp:124] "GET /admin/auth/user/2/change/ HTTP/1.1" 200 14203
+[I 20200724 01:43:59 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:44:09 basehttp:124] "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+[I 20200724 01:44:09 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7884
+[I 20200724 01:44:09 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:44:11 basehttp:124] "GET /admin/auth/user/3/change/ HTTP/1.1" 200 14180
+[I 20200724 01:44:11 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:44:23 basehttp:124] "POST /admin/auth/user/3/change/ HTTP/1.1" 302 0
+[I 20200724 01:44:23 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7879
+[I 20200724 01:44:23 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[W 20200724 01:44:43 base:152] Not Found: /
+[W 20200724 01:44:43 basehttp:124] "GET / HTTP/1.1" 404 2029
+[I 20200724 01:44:45 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7719
+[I 20200724 01:44:58 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200724 01:44:59 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200724 01:44:59 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200724 01:45:10 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200724 01:45:10 basehttp:124] "GET /admin/ HTTP/1.1" 200 4009
+[I 20200724 01:45:22 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 7809
+[I 20200724 01:45:22 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:45:25 basehttp:124] "GET /admin/ HTTP/1.1" 200 4009
+[I 20200724 01:45:29 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 7809
+[I 20200724 01:45:29 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:45:31 basehttp:124] "GET /admin/hostmanagement/serverinfo/?sbrand=%E6%88%B4%E5%B0%94 HTTP/1.1" 200 7387
+[I 20200724 01:45:31 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:45:31 basehttp:124] "GET /admin/hostmanagement/serverinfo/?sbrand=%E5%B0%8F%E7%B1%B3 HTTP/1.1" 200 7389
+[I 20200724 01:45:31 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 01:46:15 basehttp:124] "GET /admin/ HTTP/1.1" 200 4009
+[I 20200724 10:33:36 basehttp:124] "GET /admin HTTP/1.1" 301 0
+[I 20200724 10:33:36 basehttp:124] "GET /admin/ HTTP/1.1" 200 7481
+[I 20200724 10:33:36 basehttp:124] "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+[I 20200724 10:33:36 basehttp:124] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[I 20200724 10:33:36 basehttp:124] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[I 20200724 10:33:37 basehttp:124] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[I 20200724 10:33:37 basehttp:124] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[W 20200724 10:33:37 base:152] Not Found: /favicon.ico
+[W 20200724 10:33:37 basehttp:124] "GET /favicon.ico HTTP/1.1" 404 2080
+[I 20200724 10:33:37 basehttp:124] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[I 20200724 10:33:37 basehttp:124] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[I 20200724 10:33:37 basehttp:124] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[I 20200724 10:34:04 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 7802
+[I 20200724 10:34:04 basehttp:124] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[I 20200724 10:34:04 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 10:34:04 basehttp:124] "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+[I 20200724 10:34:04 basehttp:124] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[I 20200724 10:34:04 basehttp:124] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+[I 20200724 10:34:04 basehttp:124] "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+[I 20200724 10:34:04 basehttp:124] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[I 20200724 10:34:05 basehttp:124] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+[I 20200724 10:34:05 basehttp:124] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[I 20200724 10:34:05 basehttp:124] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[I 20200724 10:34:05 basehttp:124] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[I 20200724 10:34:05 basehttp:124] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[I 20200724 10:54:05 basehttp:124] "GET /hostmanagement/ybp HTTP/1.1" 301 0
+[I 20200724 10:54:05 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1182
+[I 20200724 10:54:05 basehttp:124] "GET /static/dist/echarts.min.js HTTP/1.1" 200 539949
+[W 20200724 10:54:05 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 10:54:45 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1182
+[W 20200724 10:54:45 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 10:55:56 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1182
+[I 20200724 10:55:56 basehttp:124] "GET /static/dist/echarts.min.js HTTP/1.1" 200 539949
+[W 20200724 10:55:56 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 10:58:27 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1184
+[I 20200724 10:58:27 basehttp:124] "GET /static/dist/echarts.min.js HTTP/1.1" 200 539949
+[W 20200724 10:58:27 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:00:24 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1185
+[W 20200724 11:00:24 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[W 20200724 11:00:24 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:03:13 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1183
+[W 20200724 11:03:13 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:04:21 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1183
+[W 20200724 11:04:21 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:04:36 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1183
+[W 20200724 11:04:36 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:04:37 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1183
+[W 20200724 11:04:37 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:04:54 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1183
+[W 20200724 11:04:54 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:05:09 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1185
+[W 20200724 11:05:09 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:11:55 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1185
+[W 20200724 11:11:55 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:11:56 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1185
+[W 20200724 11:11:56 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:12:11 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1185
+[W 20200724 11:12:11 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:12:23 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1184
+[W 20200724 11:12:23 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:12:40 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1185
+[W 20200724 11:12:40 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:15:01 basehttp:124] "GET /hostmanagement/line HTTP/1.1" 301 0
+[I 20200724 11:15:01 basehttp:124] "GET /hostmanagement/line/ HTTP/1.1" 200 1345
+[W 20200724 11:15:01 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:17:47 basehttp:124] "GET /hostmanagement/line/ HTTP/1.1" 200 1417
+[W 20200724 11:17:47 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 11:19:25 basehttp:124] "GET /hostmanagement/line/ HTTP/1.1" 200 1436
+[W 20200724 11:19:25 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 17:27:12 basehttp:124] "GET /hostmanagement/mg HTTP/1.1" 301 0
+[I 20200724 17:27:12 basehttp:124] "GET /hostmanagement/mg/ HTTP/1.1" 200 2828
+[W 20200724 17:27:12 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 17:27:12 basehttp:124] "GET /static/dist/echarts.min.js HTTP/1.1" 200 539949
+[W 20200724 17:27:12 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[W 20200724 17:27:12 base:152] Not Found: /favicon.ico
+[W 20200724 17:27:12 basehttp:124] "GET /favicon.ico HTTP/1.1" 404 2196
+[I 20200724 17:30:52 basehttp:124] "GET /hostmanagement/mg/ HTTP/1.1" 200 2782
+[W 20200724 17:30:52 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[E 20200724 17:38:00 exception:135] Internal Server Error: /hostmanagement/mg/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\hostmanagement\views.py", line 19, in mg
+    res = ServerInfo.objects.all().values("sbrand").annotate(num = Count('sbrand'))
+NameError: name 'Count' is not defined
+[E 20200724 17:38:00 basehttp:124] "GET /hostmanagement/mg/ HTTP/1.1" 500 71412
+[I 20200724 17:38:41 basehttp:124] "GET /hostmanagement/mg/ HTTP/1.1" 200 1894
+[W 20200724 17:38:41 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 17:39:02 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200724 17:39:02 basehttp:124] "GET /admin/ HTTP/1.1" 200 7481
+[I 20200724 17:39:02 basehttp:124] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[I 20200724 17:39:03 basehttp:124] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[I 20200724 17:39:03 basehttp:124] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[I 20200724 17:39:03 basehttp:124] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[I 20200724 17:39:06 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7945
+[I 20200724 17:39:06 basehttp:124] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[I 20200724 17:39:06 basehttp:124] "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+[I 20200724 17:39:06 basehttp:124] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+[I 20200724 17:39:06 basehttp:124] "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+[I 20200724 17:39:06 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:39:06 basehttp:124] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+[I 20200724 17:39:06 basehttp:124] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[I 20200724 17:39:06 basehttp:124] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[I 20200724 17:39:06 basehttp:124] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[I 20200724 17:39:12 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 7802
+[I 20200724 17:39:12 basehttp:124] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[I 20200724 17:39:12 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:39:16 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7945
+[I 20200724 17:39:17 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:39:41 basehttp:124] "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+[I 20200724 17:39:46 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200724 17:39:46 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 8482
+[I 20200724 17:39:46 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:39:54 basehttp:124] "GET /hostmanagement/mg/ HTTP/1.1" 200 1894
+[W 20200724 17:39:54 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 17:40:06 basehttp:124] "GET /admin/hostmanagement/serverinfo/2/change/ HTTP/1.1" 200 8220
+[I 20200724 17:40:06 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:40:54 basehttp:124] "POST /admin/hostmanagement/serverinfo/2/change/ HTTP/1.1" 302 0
+[I 20200724 17:40:54 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 8550
+[I 20200724 17:40:54 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:41:02 basehttp:124] "GET /hostmanagement/mg/ HTTP/1.1" 200 1932
+[W 20200724 17:41:02 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 17:41:13 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7945
+[I 20200724 17:41:13 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:41:30 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200724 17:41:30 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 9121
+[I 20200724 17:41:30 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:41:35 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7945
+[I 20200724 17:41:35 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:42:05 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 8109
+[I 20200724 17:42:05 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:42:11 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200724 17:42:11 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 9608
+[I 20200724 17:42:11 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:42:15 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7945
+[I 20200724 17:42:15 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:42:32 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 8109
+[I 20200724 17:42:32 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:42:36 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200724 17:42:36 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 10095
+[I 20200724 17:42:36 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 17:42:43 basehttp:124] "GET /hostmanagement/mg/ HTTP/1.1" 200 1974
+[W 20200724 17:42:43 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 17:46:10 basehttp:124] "GET /hostmanagement/list/ HTTP/1.1" 200 4943
+[I 20200724 17:46:10 basehttp:124] "GET /static/dist/jquery.min.js HTTP/1.1" 200 85589
+[I 20200724 17:46:10 basehttp:124] "GET /static/dist/amazeui.min.css HTTP/1.1" 200 247008
+[I 20200724 17:46:10 basehttp:124] "GET /static/dist/amazeui.min.js HTTP/1.1" 200 206942
+[I 20200724 17:46:10 basehttp:124] "GET /static/dist/i/favicon.png HTTP/1.1" 200 1024
+[I 20200724 17:49:02 basehttp:124] "GET /hostmanagement/list/ HTTP/1.1" 200 4949
+[I 20200724 17:49:02 basehttp:124] "GET /static/dist/i/favicon.png HTTP/1.1" 200 1024
+[I 20200724 17:50:44 basehttp:124] "GET /hostmanagement/list/ HTTP/1.1" 200 4934
+[I 20200724 17:50:44 basehttp:124] "GET /static/dist/i/favicon.png HTTP/1.1" 200 1024
+[I 20200724 17:55:55 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1185
+[W 20200724 17:55:55 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[W 20200724 17:55:55 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:03:01 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1974
+[W 20200724 18:03:01 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:11:18 basehttp:124] "GET /static/dist/jquery.min.js HTTP/1.1" 200 85589
+[I 20200724 18:11:18 basehttp:124] "GET /static/dist/amazeui.min.js HTTP/1.1" 200 206942
+[I 20200724 18:11:24 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 1315
+[W 20200724 18:11:24 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[W 20200724 18:11:24 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:16:59 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2852
+[W 20200724 18:16:59 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:18:13 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2854
+[W 20200724 18:18:13 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:18:42 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2850
+[W 20200724 18:18:42 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:19:07 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2846
+[W 20200724 18:19:07 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:21:25 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2847
+[W 20200724 18:21:25 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:21:27 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2847
+[W 20200724 18:21:27 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:21:58 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2847
+[W 20200724 18:21:58 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:23:17 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2845
+[W 20200724 18:23:17 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:23:28 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2845
+[W 20200724 18:23:28 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:25:30 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2861
+[W 20200724 18:25:30 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:27:42 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2885
+[W 20200724 18:27:42 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:30:43 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2887
+[W 20200724 18:30:43 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:31:02 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2886
+[W 20200724 18:31:02 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:31:21 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2885
+[W 20200724 18:31:21 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:31:38 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 2885
+[W 20200724 18:31:38 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:31:57 basehttp:124] "GET /hostmanagement/line/ HTTP/1.1" 200 1436
+[W 20200724 18:31:57 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:34:28 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 4067
+[W 20200724 18:34:28 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:39:48 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 8757
+[I 20200724 18:41:29 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 8757
+[I 20200724 18:41:30 basehttp:124] "GET /static/dist/i/favicon.png HTTP/1.1" 200 1024
+[I 20200724 18:41:32 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 8757
+[I 20200724 18:41:32 basehttp:124] "GET /static/dist/i/favicon.png HTTP/1.1" 200 1024
+[I 20200724 18:41:33 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 8757
+[I 20200724 18:41:33 basehttp:124] "GET /static/dist/i/favicon.png HTTP/1.1" 200 1024
+[I 20200724 18:42:08 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 5446
+[I 20200724 18:42:08 basehttp:124] "GET /static/dist/i/favicon.png HTTP/1.1" 200 1024
+[I 20200724 18:42:49 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 8744
+[I 20200724 18:42:49 basehttp:124] "GET /static/dist/i/favicon.png HTTP/1.1" 200 1024
+[I 20200724 18:44:48 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 7400
+[W 20200724 18:44:48 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:44:48 basehttp:124] "GET /static/dist/echarts.min.js HTTP/1.1" 200 539949
+[W 20200724 18:44:48 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:47:40 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 200 4069
+[W 20200724 18:47:40 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[W 20200724 18:49:22 base:152] Not Found: /hostmanagement/ybp/
+[W 20200724 18:49:22 basehttp:124] "GET /hostmanagement/ybp/ HTTP/1.1" 404 2783
+[I 20200724 18:49:28 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4067
+[W 20200724 18:49:28 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:49:57 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4067
+[W 20200724 18:49:57 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:53:46 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4067
+[W 20200724 18:53:46 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 18:53:51 basehttp:124] "GET /hostmanagement/list/ HTTP/1.1" 200 4937
+[I 20200724 18:55:13 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7945
+[I 20200724 18:55:13 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 18:56:04 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200724 18:56:04 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 10646
+[I 20200724 18:56:04 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 18:56:14 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4103
+[W 20200724 18:56:14 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 19:02:04 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4112
+[W 20200724 19:02:04 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 19:02:46 basehttp:124] "GET /admin/hostmanagement/serverinfo/?sbrand=%E6%88%B4%E5%B0%94 HTTP/1.1" 200 7590
+[I 20200724 19:02:46 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 19:02:49 basehttp:124] "GET /admin/ HTTP/1.1" 200 7599
+[I 20200724 19:02:55 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 9977
+[I 20200724 19:02:55 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 19:02:59 basehttp:124] "GET /admin/ HTTP/1.1" 200 7599
+[I 20200724 19:03:01 basehttp:124] "GET /admin/employee/deptinfo/ HTTP/1.1" 200 5232
+[I 20200724 19:03:01 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 19:03:05 basehttp:124] "GET /admin/ HTTP/1.1" 200 7599
+[I 20200724 19:03:41 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4112
+[W 20200724 19:03:41 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 19:03:55 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4112
+[W 20200724 19:03:55 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 19:04:34 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4111
+[W 20200724 19:04:34 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 19:04:52 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4111
+[W 20200724 19:04:52 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 19:05:37 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4111
+[W 20200724 19:05:37 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 19:06:17 basehttp:124] "GET /hostmanagement/list/ HTTP/1.1" 200 4937
+[I 20200724 19:08:45 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 10457
+[I 20200724 19:08:45 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 19:08:50 basehttp:124] "GET /admin/ HTTP/1.1" 200 7599
+[I 20200724 19:08:52 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 9977
+[I 20200724 19:08:52 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 19:08:57 basehttp:124] "GET /admin/ HTTP/1.1" 200 7599
+[I 20200724 19:15:52 basehttp:124] "GET /admin/hostmanagement/serverinfo/9/change/ HTTP/1.1" 200 8221
+[I 20200724 19:15:52 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[E 20200724 19:18:26 exception:135] Internal Server Error: /employee/disk/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\employee\views.py", line 12, in disk_info
+    if int(res) > 10:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200724 19:18:26 basehttp:124] "GET /employee/disk/ HTTP/1.1" 500 71565
+[E 20200724 19:18:26 basehttp:124] "GET /employee/disk/ HTTP/1.1" 500 59
+[E 20200724 19:18:31 exception:135] Internal Server Error: /employee/disk/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\employee\views.py", line 12, in disk_info
+    if int(res) > 10:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200724 19:18:31 basehttp:124] "GET /employee/disk/ HTTP/1.1" 500 71565
+[I 20200724 19:21:00 basehttp:124] "GET /admin/ HTTP/1.1" 200 7599
+[W 20200724 21:34:55 base:152] Not Found: /hostmanagement/line
+[W 20200724 21:34:55 basehttp:124] "GET /hostmanagement/line HTTP/1.1" 404 2445
+[I 20200724 21:35:03 basehttp:124] "GET /hostmanagement/hosts HTTP/1.1" 301 0
+[I 20200724 21:35:03 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4111
+[W 20200724 21:35:03 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200724 21:35:19 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 9977
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[I 20200724 21:35:20 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[I 20200724 21:35:20 basehttp:124] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[I 20200724 21:35:21 basehttp:124] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[I 20200724 21:35:23 basehttp:124] "GET /admin/ HTTP/1.1" 200 7599
+[I 20200724 21:35:23 basehttp:124] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[I 20200724 21:35:23 basehttp:124] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[I 20200724 21:35:23 basehttp:124] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[I 20200724 21:36:10 basehttp:124] "GET /admin/ HTTP/1.1" 200 7635
+[I 20200724 21:39:58 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 10457
+[I 20200724 21:39:58 basehttp:124] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[I 20200724 21:39:58 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 21:39:58 basehttp:124] "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+[I 20200724 21:39:58 basehttp:124] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[I 20200724 21:39:58 basehttp:124] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+[I 20200724 21:39:58 basehttp:124] "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+[I 20200724 21:39:58 basehttp:124] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[I 20200724 21:39:59 basehttp:124] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+[I 20200724 21:39:59 basehttp:124] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[I 20200724 21:39:59 basehttp:124] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[I 20200724 21:39:59 basehttp:124] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[I 20200724 21:39:59 basehttp:124] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[I 20200724 21:40:07 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7945
+[I 20200724 21:40:07 basehttp:124] "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+[I 20200724 21:40:07 basehttp:124] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[I 20200724 21:40:07 basehttp:124] "GET /static/admin/js/calendar.js HTTP/1.1" 200 7790
+[I 20200724 21:40:07 basehttp:124] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20529
+[I 20200724 21:40:07 basehttp:124] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[I 20200724 21:40:07 basehttp:124] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[I 20200724 21:40:07 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 21:40:08 basehttp:124] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[I 20200724 21:40:40 basehttp:124] "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+[I 20200724 21:40:45 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200724 21:40:45 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 11141
+[I 20200724 21:40:45 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200724 21:40:46 basehttp:124] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[I 20200724 21:40:56 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4111
+[W 20200724 21:40:56 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200726 12:35:21 basehttp:124] "GET /hostmanagement/list/ HTTP/1.1" 200 4937
+[I 20200726 12:35:21 basehttp:124] "GET /static/dist/amazeui.min.css HTTP/1.1" 200 247008
+[I 20200726 12:35:21 basehttp:124] "GET /static/dist/jquery.min.js HTTP/1.1" 200 85589
+[I 20200726 12:35:21 basehttp:124] "GET /static/dist/amazeui.min.js HTTP/1.1" 200 206942
+[I 20200726 12:35:28 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4111
+[W 20200726 12:35:28 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200726 12:35:28 basehttp:124] "GET /static/dist/echarts.min.js HTTP/1.1" 200 539949
+[W 20200726 12:35:28 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[W 20200726 12:35:28 base:152] Not Found: /favicon.ico
+[W 20200726 12:35:28 basehttp:124] "GET /favicon.ico HTTP/1.1" 404 2196
+[I 20200726 12:38:07 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4105
+[W 20200726 12:38:07 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200726 12:40:01 views:15] ´ÅÅÌ¸ºÔØÎ£ÏÕ
+[I 20200726 12:40:03 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4105
+[W 20200726 12:40:03 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200726 12:47:56 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 302 0
+[I 20200726 12:47:56 basehttp:124] "GET /admin/login/?next=/admin/employee/employeeinfo/ HTTP/1.1" 200 1698
+[I 20200726 12:47:56 basehttp:124] "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+[I 20200726 12:47:57 basehttp:124] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[I 20200726 12:47:57 basehttp:124] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[W 20200726 12:47:57 base:152] Not Found: /favicon.ico
+[W 20200726 12:47:57 basehttp:124] "GET /favicon.ico HTTP/1.1" 404 2196
+[I 20200726 12:47:57 basehttp:124] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[I 20200726 12:47:57 basehttp:124] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[I 20200726 12:48:02 basehttp:124] "POST /admin/login/?next=/admin/employee/employeeinfo/ HTTP/1.1" 302 0
+[I 20200726 12:48:02 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 9977
+[I 20200726 12:48:02 basehttp:124] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[I 20200726 12:48:02 basehttp:124] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[I 20200726 12:48:02 basehttp:124] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+[I 20200726 12:48:02 basehttp:124] "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+[I 20200726 12:48:02 basehttp:124] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[I 20200726 12:48:02 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 12:48:02 basehttp:124] "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+[I 20200726 12:48:03 basehttp:124] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+[I 20200726 12:48:03 basehttp:124] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[I 20200726 12:48:03 basehttp:124] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[I 20200726 12:48:03 basehttp:124] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[I 20200726 12:48:03 basehttp:124] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[I 20200726 12:48:03 basehttp:124] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[I 20200726 12:48:05 basehttp:124] "GET /admin/ HTTP/1.1" 200 7662
+[I 20200726 12:48:05 basehttp:124] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[I 20200726 12:48:05 basehttp:124] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[I 20200726 12:48:05 basehttp:124] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[I 20200726 12:48:19 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 9977
+[I 20200726 12:48:19 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 12:48:22 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200726 12:48:23 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200726 12:48:24 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200726 12:48:46 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200726 12:48:46 basehttp:124] "GET /admin/ HTTP/1.1" 200 4045
+[I 20200726 12:48:59 basehttp:124] "GET /admin/ HTTP/1.1" 200 4045
+[I 20200726 12:49:01 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200726 12:49:02 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200726 12:49:02 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200726 12:49:12 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200726 12:49:12 basehttp:124] "GET /admin/ HTTP/1.1" 200 2869
+[W 20200726 13:05:46 exception:58] Forbidden (Permission denied): /admin/hostmanagement/serverinfo/add/
+[W 20200726 13:05:46 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 403 22
+[I 20200726 13:05:53 basehttp:124] "GET /admin/ HTTP/1.1" 200 2869
+[I 20200726 13:05:55 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 9984
+[I 20200726 13:05:56 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:05:58 basehttp:124] "GET /admin/employee/employeeinfo/add/ HTTP/1.1" 200 7435
+[I 20200726 13:05:58 basehttp:124] "GET /static/admin/js/calendar.js HTTP/1.1" 200 7790
+[I 20200726 13:05:58 basehttp:124] "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+[I 20200726 13:05:58 basehttp:124] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20529
+[I 20200726 13:05:58 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:05:59 basehttp:124] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[I 20200726 13:05:59 basehttp:124] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[I 20200726 13:05:59 basehttp:124] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[I 20200726 13:05:59 basehttp:124] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[I 20200726 13:06:19 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 9984
+[I 20200726 13:06:23 basehttp:124] "GET /admin/ HTTP/1.1" 200 2869
+[I 20200726 13:06:30 basehttp:124] "GET /admin/ HTTP/1.1" 200 2869
+[I 20200726 13:06:39 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200726 13:06:41 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200726 13:06:41 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200726 13:06:55 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200726 13:06:55 basehttp:124] "GET /admin/ HTTP/1.1" 200 4045
+[I 20200726 13:06:57 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 10958
+[I 20200726 13:06:58 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:07:00 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7952
+[I 20200726 13:07:01 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:07:40 basehttp:124] "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+[I 20200726 13:07:43 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200726 13:07:44 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 11709
+[I 20200726 13:07:44 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:07:44 basehttp:124] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[I 20200726 13:07:55 views:15] ´ÅÅÌ¸ºÔØÎ£ÏÕ
+[I 20200726 13:07:56 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4147
+[W 20200726 13:07:56 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200726 13:08:47 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4147
+[W 20200726 13:08:47 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200726 13:29:41 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4147
+[W 20200726 13:29:41 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200726 13:30:55 views:15] ´ÅÅÌ¸ºÔØÎ£ÏÕ
+[I 20200726 13:30:57 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4147
+[W 20200726 13:30:57 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200726 13:32:14 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 11519
+[I 20200726 13:32:14 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:32:17 basehttp:124] "GET /admin/ HTTP/1.1" 200 4354
+[I 20200726 13:32:20 basehttp:124] "GET /admin/ HTTP/1.1" 200 4354
+[I 20200726 13:32:24 basehttp:124] "GET /admin/ HTTP/1.1" 200 4354
+[I 20200726 13:32:28 basehttp:124] "GET /admin/ HTTP/1.1" 200 4354
+[I 20200726 13:32:31 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200726 13:32:39 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200726 13:32:39 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200726 13:32:43 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200726 13:32:43 basehttp:124] "GET /admin/ HTTP/1.1" 200 7662
+[I 20200726 13:34:32 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 9977
+[I 20200726 13:34:32 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:34:37 basehttp:124] "GET /admin/employee/employeeinfo/add/ HTTP/1.1" 200 7428
+[I 20200726 13:34:37 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:35:03 basehttp:124] "POST /admin/employee/employeeinfo/add/ HTTP/1.1" 302 0
+[I 20200726 13:35:03 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 10613
+[I 20200726 13:35:03 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:35:07 basehttp:124] "GET /admin/employee/employeeinfo/? HTTP/1.1" 200 10429
+[I 20200726 13:35:07 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:35:08 basehttp:124] "GET /admin/employee/employeeinfo/?dept_name__id__exact=3 HTTP/1.1" 200 7222
+[I 20200726 13:35:08 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:35:10 basehttp:124] "GET /admin/employee/employeeinfo/?dept_name__id__exact=2 HTTP/1.1" 200 6726
+[I 20200726 13:35:10 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:35:11 basehttp:124] "GET /admin/employee/employeeinfo/?dept_name__id__exact=4 HTTP/1.1" 200 7242
+[I 20200726 13:35:12 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:35:13 basehttp:124] "GET /admin/employee/employeeinfo/?dept_name__id__exact=5 HTTP/1.1" 200 7233
+[I 20200726 13:35:13 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:35:16 basehttp:124] "GET /admin/employee/employeeinfo/? HTTP/1.1" 200 10429
+[I 20200726 13:35:16 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:35:19 basehttp:124] "GET /admin/employee/employeeinfo/?dept_name__id__exact=1 HTTP/1.1" 200 7735
+[I 20200726 13:35:19 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:35:22 basehttp:124] "GET /admin/employee/employeeinfo/?dept_name__id__exact=2 HTTP/1.1" 200 6726
+[I 20200726 13:35:22 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:35:24 basehttp:124] "GET /admin/employee/employeeinfo/?dept_name__id__exact=3 HTTP/1.1" 200 7222
+[I 20200726 13:35:24 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:35:30 basehttp:124] "GET /admin/ HTTP/1.1" 200 7683
+[I 20200726 13:38:07 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4147
+[W 20200726 13:38:07 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200726 13:39:16 basehttp:124] "GET /admin/auth/user/ HTTP/1.1" 200 7719
+[I 20200726 13:39:16 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:39:16 basehttp:124] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[I 20200726 13:39:44 basehttp:124] "GET /admin HTTP/1.1" 301 0
+[I 20200726 13:39:45 basehttp:124] "GET /admin/ HTTP/1.1" 200 7683
+[I 20200726 13:39:47 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200726 13:39:49 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200726 13:39:49 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200726 13:40:03 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200726 13:40:03 basehttp:124] "GET /admin/ HTTP/1.1" 200 4354
+[I 20200726 13:40:12 basehttp:124] "GET /admin/ HTTP/1.1" 200 4354
+[I 20200726 13:40:19 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200726 13:40:21 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200726 13:40:22 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200726 13:40:24 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200726 13:40:25 basehttp:124] "GET /admin/ HTTP/1.1" 200 7683
+[I 20200726 13:41:43 basehttp:124] "GET /admin/hostmanagement/ HTTP/1.1" 200 2315
+[I 20200726 13:41:45 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 11512
+[I 20200726 13:41:45 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 13:41:47 basehttp:124] "GET /admin/hostmanagement/ HTTP/1.1" 200 2315
+[I 20200726 13:41:49 basehttp:124] "GET /admin/ HTTP/1.1" 200 7683
+[I 20200726 14:04:23 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 10429
+[I 20200726 14:04:23 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 14:04:27 basehttp:124] "GET /admin/employee/employeeinfo/add/ HTTP/1.1" 200 7428
+[I 20200726 14:04:27 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 14:04:39 basehttp:124] "POST /admin/employee/employeeinfo/add/ HTTP/1.1" 200 7637
+[I 20200726 14:04:39 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 14:04:45 basehttp:124] "POST /admin/employee/employeeinfo/add/ HTTP/1.1" 302 0
+[I 20200726 14:04:46 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 11068
+[I 20200726 14:04:46 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 14:04:50 basehttp:124] "GET /admin/ HTTP/1.1" 200 7700
+[I 20200726 14:04:53 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 11512
+[I 20200726 14:04:53 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 14:04:56 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7945
+[I 20200726 14:04:56 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 14:05:14 basehttp:124] "POST /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 302 0
+[I 20200726 14:05:15 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 12191
+[I 20200726 14:05:15 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200726 14:05:23 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4147
+[W 20200726 14:05:23 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200726 14:06:08 views:15] ´ÅÅÌ¸ºÔØÎ£ÏÕ
+[I 20200726 14:06:10 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 200 4147
+[W 20200726 14:06:10 basehttp:124] "GET /static/dist/jquery-1.11.3.js HTTP/1.1" 404 1676
+[I 20200726 14:06:38 basehttp:124] "GET /admin/hostmanagement/serverinfo/add/ HTTP/1.1" 200 7945
+[I 20200726 14:06:39 basehttp:124] "GET /admin/ HTTP/1.1" 200 7727
+[I 20200726 14:06:42 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200726 14:06:44 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200726 14:06:44 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200727 02:52:09 basehttp:124] "GET /admin HTTP/1.1" 301 0
+[I 20200727 02:52:09 basehttp:124] "GET /admin/ HTTP/1.1" 200 7727
+[I 20200727 02:52:09 basehttp:124] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[I 20200727 02:52:09 basehttp:124] "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+[I 20200727 02:52:09 basehttp:124] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[I 20200727 02:52:09 basehttp:124] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[I 20200727 02:52:09 basehttp:124] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[I 20200727 02:52:09 basehttp:124] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[I 20200727 02:52:09 basehttp:124] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[I 20200727 02:52:09 basehttp:124] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[W 20200727 02:52:09 base:152] Not Found: /favicon.ico
+[W 20200727 02:52:09 basehttp:124] "GET /favicon.ico HTTP/1.1" 404 2196
+[I 20200727 02:52:22 basehttp:124] "GET /admin/ HTTP/1.1" 200 7727
+[I 20200727 16:12:56 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200727 16:12:56 basehttp:124] "GET /admin/ HTTP/1.1" 200 7727
+[I 20200727 16:12:56 basehttp:124] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[I 20200727 16:12:56 basehttp:124] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[I 20200727 16:12:56 basehttp:124] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[I 20200727 16:12:56 basehttp:124] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[I 20200727 16:12:56 basehttp:124] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[I 20200727 16:12:56 basehttp:124] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[W 20200727 16:12:56 base:152] Not Found: /favicon.ico
+[W 20200727 16:12:56 basehttp:124] "GET /favicon.ico HTTP/1.1" 404 2196
+[I 20200727 16:13:24 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200727 16:13:25 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200727 16:13:25 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200727 16:13:25 basehttp:124] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[I 20200727 16:13:36 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200727 16:13:36 basehttp:124] "GET /admin/ HTTP/1.1" 200 2869
+[I 20200727 16:14:19 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200727 16:14:20 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200727 16:14:20 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200727 16:14:32 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200727 16:14:32 basehttp:124] "GET /admin/ HTTP/1.1" 200 4354
+[E 20200727 16:15:53 exception:135] Internal Server Error: /hostmanagement/hosts/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\hostmanagement\views.py", line 13, in hosts
+    if int(num) > 30:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200727 16:15:53 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 71630
+[E 20200727 16:16:47 exception:135] Internal Server Error: /hostmanagement/hosts/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\hostmanagement\views.py", line 13, in hosts
+    if int(num) > 30:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200727 16:16:47 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 71765
+[E 20200727 16:17:29 exception:135] Internal Server Error: /hostmanagement/hosts/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\hostmanagement\views.py", line 13, in hosts
+    if int(num) > 30:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200727 16:17:29 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 71765
+[E 20200727 16:19:13 exception:135] Internal Server Error: /hostmanagement/hosts/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\hostmanagement\views.py", line 13, in hosts
+    if int(num) > 30:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200727 16:19:13 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 71765
+[E 20200727 16:27:17 exception:135] Internal Server Error: /hostmanagement/hosts/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\hostmanagement\views.py", line 13, in hosts
+    if int(num) > 30:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200727 16:27:17 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 71765
+[E 20200727 16:32:00 exception:135] Internal Server Error: /hostmanagement/hosts/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\hostmanagement\views.py", line 13, in hosts
+    # if int(num) > 30:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200727 16:32:00 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 71781
+[E 20200727 16:32:56 exception:135] Internal Server Error: /hostmanagement/hosts/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\hostmanagement\views.py", line 13, in hosts
+    if int(num) > 30:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200727 16:32:56 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 71763
+[E 20200727 16:33:31 exception:135] Internal Server Error: /hostmanagement/hosts/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\hostmanagement\views.py", line 13, in hosts
+    if int(num) > 30:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200727 16:33:31 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 71763
+[E 20200727 16:33:31 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 59
+[E 20200727 16:33:33 exception:135] Internal Server Error: /hostmanagement/hosts/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\hostmanagement\views.py", line 13, in hosts
+    if int(num) > 30:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200727 16:33:33 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 71763
+[E 20200727 16:33:33 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 59
+[E 20200727 16:33:39 exception:135] Internal Server Error: /hostmanagement/hosts/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\hostmanagement\views.py", line 13, in hosts
+    if int(num) > 30:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200727 16:33:39 basehttp:124] "GET /hostmanagement/hosts/ HTTP/1.1" 500 71763
+[I 20200727 16:34:41 basehttp:124] "GET /hostmanagement/list/ HTTP/1.1" 200 4937
+[I 20200727 16:34:41 basehttp:124] "GET /static/dist/jquery.min.js HTTP/1.1" 200 85589
+[I 20200727 16:34:41 basehttp:124] "GET /static/dist/amazeui.min.css HTTP/1.1" 200 247008
+[I 20200727 16:34:41 basehttp:124] "GET /static/dist/amazeui.min.js HTTP/1.1" 200 206942
+[I 20200727 16:35:43 basehttp:124] "GET /admin HTTP/1.1" 301 0
+[I 20200727 16:35:43 basehttp:124] "GET /admin/ HTTP/1.1" 200 4354
+[I 20200727 16:35:46 basehttp:124] "GET /admin/logout/ HTTP/1.1" 200 1013
+[I 20200727 16:35:48 basehttp:124] "GET /admin/ HTTP/1.1" 302 0
+[I 20200727 16:35:48 basehttp:124] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1654
+[I 20200727 16:35:54 basehttp:124] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[I 20200727 16:35:54 basehttp:124] "GET /admin/ HTTP/1.1" 200 7727
+[I 20200727 16:35:58 basehttp:124] "GET /admin/hostmanagement/serverinfo/ HTTP/1.1" 200 12001
+[I 20200727 16:35:58 basehttp:124] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[I 20200727 16:35:58 basehttp:124] "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+[I 20200727 16:35:58 basehttp:124] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[I 20200727 16:35:58 basehttp:124] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+[I 20200727 16:35:58 basehttp:124] "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+[I 20200727 16:35:58 basehttp:124] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+[I 20200727 16:35:58 basehttp:124] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[I 20200727 16:35:58 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[I 20200727 16:35:58 basehttp:124] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[I 20200727 16:35:58 basehttp:124] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[I 20200727 16:35:58 basehttp:124] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[I 20200727 16:35:58 basehttp:124] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[I 20200727 16:36:39 basehttp:124] "GET /admin/ HTTP/1.1" 200 7727
+[I 20200727 16:36:41 basehttp:124] "GET /admin/employee/ HTTP/1.1" 200 2704
+[I 20200727 16:36:43 basehttp:124] "GET /admin/employee/employeeinfo/ HTTP/1.1" 200 10884
+[I 20200727 16:36:43 basehttp:124] "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[E 20200727 16:51:15 exception:135] Internal Server Error: /employee/disk/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py3_1.11\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\PycharmProjects\hrmanagesystem\employee\views.py", line 12, in disk_info
+    if int(res) > 10:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[E 20200727 16:51:15 basehttp:124] "GET /employee/disk/ HTTP/1.1" 500 71538
+[E 20200727 16:51:15 basehttp:124] "GET /employee/disk/ HTTP/1.1" 500 59
+[I 20200727 16:52:16 basehttp:124] "GET /hostmanagement/list/ HTTP/1.1" 200 4937

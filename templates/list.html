@@ -1,0 +1,158 @@
+<!doctype html>
+<html class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>主机列表</title>
+  <meta name="description" content="demo">
+  <meta name="keywords" content="demo">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="Cache-Control" content="no-siteapp,no-store" />
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="icon" type="image/png" href="/static/dist/i/favicon.png">
+  <link rel="apple-touch-icon-precomposed" href="/static/dist/i/app-icon72x72@2x.png">
+  <meta name="apple-mobile-web-app-title" content="demo" />
+  <link rel="stylesheet" href="/static/dist/amazeui.min.css"/>
+  <script src="/static/dist/jquery.min.js"></script>
+  <script src="/static/dist/amazeui.min.js"></script>
+  <style media="screen">
+    .fixed-layout .admin-header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1500;
+    }
+    .fixed-layout .admin-main {
+      position: relative;
+      height: 100%;
+      padding-top: 51px;
+    }
+    .fixed-layout .admin-content{
+      height: 100%;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+    .am-header{
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1000;
+      font-size: 1.4rem;
+      margin-bottom: 0;
+    }
+    .am-content{
+      position: relative;
+      height: 100%;
+      padding-top: 51px;
+    }
+</style>
+</head>
+<body>
+  <div class="am-content">
+    <div data-module="firstlevel" class="am-animation-slide-left">
+      <div class="am-cf am-padding">
+        <div class="am-fl am-cf"><strong class="am-text-primary am-text-lg">内存磁盘状态</strong></div>
+      </div>
+      <!-- <div class="am-container"> -->
+          <div class="am-g">
+            <div class="am-u-md-6">
+              <div class="am-panel am-panel-default">
+                  <div class="am-panel-hd">
+                    <h4 class="am-panel-title" data-am-collapse="{ target: '#statistics'}">
+                      内存负载
+                    </h4>
+                  </div>
+                  <div id="statistics" class="am-panel-collapse am-collapse am-in">
+                    <div class="am-panel-bd">
+                       <div id="statistics-main-content" render="true" >
+							<table width='100%' class='am-table am-table-bd am-table-bdrs am-table-striped am-table-hover am-text-xs'>
+								<thead>
+									<tr>
+										<th>主机名</th>
+										<th>状态</th>
+										<th>创建时间</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>场景A</td>
+										<td><span class='am-badge am-badge-default'>10</span></td>
+										<td>2016-08-25</td>
+									</tr>
+								</tbody>
+								<tbody>
+									<tr>
+										<td>场景B</td>
+										<td><span class='am-badge am-badge-primary'>30</span></td>
+										<td>2016-08-25</td>
+									</tr>
+								</tbody>
+								<tbody>
+									<tr>
+										<td>场景C</td>
+										<td><span class='am-badge am-badge-warning'>300</span></td>
+										<td>2016-08-25</td>
+									</tr>
+								</tbody>
+							</table>
+                       </div>
+                    </div>
+                  </div>
+               </div>
+            </div>
+
+            <div class="am-u-md-6">
+              <div class="am-panel am-panel-default">
+                  <div class="am-panel-hd">
+                    <h4 class="am-panel-title" data-am-collapse="{ target: '#expend'}">
+                      磁盘负载
+                    </h4>
+                  </div>
+                  <div id="expend" class="am-panel-collapse am-collapse am-in">
+                    <div class="am-panel-bd">
+                       <div id="expend-main-content" render="true" >
+							<table width='100%' class='am-table am-table-bd am-table-bdrs am-table-striped am-table-hover am-text-xs'>
+							<thead>
+								<tr>
+									<th>主机名</th>
+									<th>状态</th>
+									<th>创建时间</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>场景A</td>
+									<td><span class='am-badge am-badge-danger'>失败</span></td>
+									<td>2016-08-25</td>
+								</tr>
+							</tbody>
+							<tbody>
+								<tr>
+									<td>场景B</td>
+									<td><span class='am-badge am-badge-success'>成功</span></td>
+									<td>2016-08-25</td>
+								</tr>
+							</tbody>
+							<tbody>
+								<tr>
+									<td>场景C</td>
+									<td><span class='am-badge am-badge-success'>成功</span></td>
+									<td>2016-08-25</td>
+								</tr>
+							</tbody>
+							</table>                       
+                       </div>
+                    </div>
+                  </div>
+               </div>
+            </div>
+          </div>
+      <hr/>
+    </div>
+  </div>
+</body>
+</html>
