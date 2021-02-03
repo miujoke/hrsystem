@@ -206,14 +206,14 @@ INSERT INTO `django_admin_log` VALUES ('8', '2020-07-21 11:10:08.955605', '14', 
 INSERT INTO `django_admin_log` VALUES ('9', '2020-07-21 11:14:18.284132', '15', '刘雯', '1', '[{\"added\": {}}]', '8', '1');
 INSERT INTO `django_admin_log` VALUES ('10', '2020-07-21 11:14:55.839761', '2', 'asin', '2', '[{\"changed\": {\"fields\": [\"first_name\", \"last_name\", \"email\", \"is_staff\", \"is_superuser\"]}}]', '4', '1');
 INSERT INTO `django_admin_log` VALUES ('11', '2020-07-21 11:15:38.924612', '2', 'asin', '2', '[{\"changed\": {\"fields\": [\"is_superuser\", \"last_login\"]}}]', '4', '1');
-INSERT INTO `django_admin_log` VALUES ('12', '2020-07-21 13:57:34.096694', '1', '杜辛', '2', '[{\"changed\": {\"fields\": [\"em_telephone\", \"dept_name\"]}}]', '8', '1');
-INSERT INTO `django_admin_log` VALUES ('13', '2020-07-21 14:02:41.006674', '16', '程鹏', '1', '[{\"added\": {}}]', '8', '1');
-INSERT INTO `django_admin_log` VALUES ('14', '2020-07-21 14:03:21.463357', '17', '陈薪然', '1', '[{\"added\": {}}]', '8', '1');
-INSERT INTO `django_admin_log` VALUES ('15', '2020-07-21 14:03:55.829241', '18', '万志伟', '1', '[{\"added\": {}}]', '8', '1');
-INSERT INTO `django_admin_log` VALUES ('16', '2020-07-21 14:04:16.700623', '19', '陈瑞飞', '1', '[{\"added\": {}}]', '8', '1');
-INSERT INTO `django_admin_log` VALUES ('17', '2020-07-21 14:04:49.115828', '20', '高博予', '1', '[{\"added\": {}}]', '8', '1');
-INSERT INTO `django_admin_log` VALUES ('18', '2020-07-21 14:05:03.227153', '1', '杜辛', '2', '[{\"changed\": {\"fields\": [\"dept_name\"]}}]', '8', '1');
-INSERT INTO `django_admin_log` VALUES ('19', '2020-07-21 14:05:28.463666', '20', '高博予', '2', '[{\"changed\": {\"fields\": [\"dept_name\"]}}]', '8', '1');
+INSERT INTO `django_admin_log` VALUES ('12', '2020-07-21 13:57:34.096694', '1', '辛', '2', '[{\"changed\": {\"fields\": [\"em_telephone\", \"dept_name\"]}}]', '8', '1');
+INSERT INTO `django_admin_log` VALUES ('13', '2020-07-21 14:02:41.006674', '16', '鹏', '1', '[{\"added\": {}}]', '8', '1');
+INSERT INTO `django_admin_log` VALUES ('14', '2020-07-21 14:03:21.463357', '17', '薪然', '1', '[{\"added\": {}}]', '8', '1');
+INSERT INTO `django_admin_log` VALUES ('15', '2020-07-21 14:03:55.829241', '18', '志伟', '1', '[{\"added\": {}}]', '8', '1');
+INSERT INTO `django_admin_log` VALUES ('16', '2020-07-21 14:04:16.700623', '19', '瑞飞', '1', '[{\"added\": {}}]', '8', '1');
+INSERT INTO `django_admin_log` VALUES ('17', '2020-07-21 14:04:49.115828', '20', '博予', '1', '[{\"added\": {}}]', '8', '1');
+INSERT INTO `django_admin_log` VALUES ('18', '2020-07-21 14:05:03.227153', '1', '辛', '2', '[{\"changed\": {\"fields\": [\"dept_name\"]}}]', '8', '1');
+INSERT INTO `django_admin_log` VALUES ('19', '2020-07-21 14:05:28.463666', '20', '博予', '2', '[{\"changed\": {\"fields\": [\"dept_name\"]}}]', '8', '1');
 INSERT INTO `django_admin_log` VALUES ('20', '2020-07-23 10:54:01.525683', '5', '计划营销部', '2', '[{\"changed\": {\"fields\": [\"dept_name\"]}}]', '7', '2');
 INSERT INTO `django_admin_log` VALUES ('21', '2020-07-23 10:54:17.700452', '4', '总经理办公室', '2', '[{\"changed\": {\"fields\": [\"dept_name\"]}}]', '7', '2');
 INSERT INTO `django_admin_log` VALUES ('22', '2020-07-23 10:54:32.227657', '3', '行政部', '2', '[{\"changed\": {\"fields\": [\"dept_name\"]}}]', '7', '2');
@@ -354,14 +354,14 @@ CREATE TABLE `tb_employee` (
 -- ----------------------------
 -- Records of tb_employee
 -- ----------------------------
-INSERT INTO `tb_employee` VALUES ('1', '杜辛', '男', '22', '15519313915', '2020-07-20', '1');
-INSERT INTO `tb_employee` VALUES ('14', '张子枫', '女', '18', '15519313913', '2020-07-21', '1');
-INSERT INTO `tb_employee` VALUES ('15', '刘雯', '女', '36', '15519313915', '2020-07-21', '2');
-INSERT INTO `tb_employee` VALUES ('16', '程鹏', '男', '18', '18288847476', '2020-05-06', '5');
-INSERT INTO `tb_employee` VALUES ('17', '陈薪然', '男', '21', '13784575252', '2020-05-01', '4');
-INSERT INTO `tb_employee` VALUES ('18', '万志伟', '女', '22', '12585788879', '2020-07-07', '4');
-INSERT INTO `tb_employee` VALUES ('19', '陈瑞飞', '女', '18', '13784575252', '2020-07-07', '3');
-INSERT INTO `tb_employee` VALUES ('20', '高博予', '男', '18', '18288847476', '2020-05-06', '5');
+INSERT INTO `tb_employee` VALUES ('1', '辛', '男', '22', '15111222222', '2020-07-20', '1');
+INSERT INTO `tb_employee` VALUES ('14', '子枫', '女', '18', '15514444444444', '2020-07-21', '1');
+INSERT INTO `tb_employee` VALUES ('15', '刘雯', '女', '36', '155444444444', '2020-07-21', '2');
+INSERT INTO `tb_employee` VALUES ('16', '鹏', '男', '18', '18288424476', '2020-05-06', '5');
+INSERT INTO `tb_employee` VALUES ('17', '薪然', '男', '21', '13784575252', '2020-05-01', '4');
+INSERT INTO `tb_employee` VALUES ('18', '志伟', '女', '22', '12585788879', '2020-07-07', '4');
+INSERT INTO `tb_employee` VALUES ('19', '瑞飞', '女', '18', '13784575252', '2020-07-07', '3');
+INSERT INTO `tb_employee` VALUES ('20', '博予', '男', '18', '18288847476', '2020-05-06', '5');
 INSERT INTO `tb_employee` VALUES ('21', '张阿猫', '女', '19', '13784575252', '2020-07-01', '1');
 
 -- ----------------------------
